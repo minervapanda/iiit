@@ -12,7 +12,7 @@
         android:text="WELCOME"
         android:id="@+id/textView6"
         android:layout_gravity="center_horizontal"
-        android:textColor="#ffff3b26" />
+        android:textColor="#ff4249ff" />
 
     <TextView
         android:id="@+id/txt"

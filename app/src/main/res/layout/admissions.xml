@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:weightSum="1">
+    android:weightSum="1"
+    android:background="#7efffd88">
 
     <TextView
         android:layout_width="wrap_content"
@@ -27,6 +28,6 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="The admissions into the university for undergraduate studies is on the basis of  JEE (main) ranking."
         android:id="@+id/textView5"
-        android:layout_gravity="center_horizontal"
-        android:textSize="30dp" />
+        android:textSize="30dp"
+        android:textColor="#ffff5449" />
 </LinearLayout>
